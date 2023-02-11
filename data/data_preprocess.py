@@ -60,7 +60,7 @@ def data_preprocess(
     # Load data
     #########################
 
-    index = 'Idx'
+    index = 'id'
 
     # Load csv
     print("Loading data...\n")
